@@ -1,4 +1,7 @@
 {
 	"name": "Nagr0m/Test",
-    "version": "0.0.2"
+	"version": "0.0.2",
+	"require": {
+		"composer/installers": "^1.3"
+	}	
 }
